@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arte de Vivir</title>
+    <link rel="stylesheet" href="assets/css/pago.css">
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <link rel="icon" href="assets/imagenes/logo-icono.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/carrito.css">
+    
+
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+           <a href="index.html">
+            <img src="assets/imagenes/banner2.png" alt="logo de la marca">
+           </a>
+           
+        </div>
+        <nav>
+           <ul class="nav-links">
+            <li><a href="artesanias.html">Artesanias</a></li>
+            <li><a href="pulseras.html">Pulseras</a></li>
+            <li><a href="collares.html">Collares</a></li>
+            <li><a href="aretes.html">Aretes</a></li>
+            <li><a href="perfumes.html">Perfumes</a></li>
+            <li class="boton"><a href="login.html">Inicar sesion</a></li>
+            <a href="shippingcart.html"> <i class="fa-solid fa-cart-shopping" id="cartbut"></i></a>
+           </ul>
+        </nav>
+    </header>
+    
+    <div class="payment-container">
+        <h2>Formulario de Pago</h2>
+        <form action="#">
+            
+            <label for="cardholder-name">Nombre del titular</label>
+            <input type="text" id="cardholder-name" placeholder="Nombre completo" required>
+            
+        
+            <label for="card-number">Número de tarjeta</label>
+            <input type="text" id="card-number" placeholder="XXXX XXXX XXXX XXXX" maxlength="16" required>
+
+            
+            <div class="expiration-cvv">
+                <div>
+                    <label for="expiry-date">Fecha de expiración</label>
+                    <input type="text" id="expiry-date" placeholder="MM/AA" maxlength="5" required>
+                </div>
+                <div>
+                    <label for="cvv">CVV</label>
+                    <input type="text" id="cvv" placeholder="XXX" maxlength="3" required>
+                </div>
+            </div>
+
+            
+            <label for="payment-method">Método de pago</label>
+            <select id="payment-method" required>
+                <option value="credit-card">Tarjeta de crédito</option>
+                <option value="debit-card">Tarjeta de débito</option>
+                <option value="paypal">PayPal</option>
+            </select>
+
+            
+            <button type="submit">Pagar Ahora</button>
+        </form>
+    </div>
+   
+   
+        <footer class="footer">
+            <div class="container">
+               <div class="footer-row">
+         
+                  <div class="footer-links">
+                     
+                     <h4>Nosotros</h4>
+                     <ul>
+                        <li><a href="#">Servicios</a></li>
+                        <li><a href="#">Privacidad</a></li>
+                        <li><a href="#">Afiliate</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="footer-links">
+                  
+                  <h4>Ayuda</h4>
+                  <ul>
+                     <li><a href="#">Preguntas</a></li>
+                     <li><a href="#">Reportar</a></li>
+                     <li><a href="#">Asistencia</a></li>
+                  </ul>
+               </div>
+               <div class="footer-links">
+                  
+                  <h4>Siguenos</h4>
+                  <div class="social-link">
+                     <a href="https://www.facebook.com/profile.php?id=61565888271423&locale=es_LA" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
+                 <a href="https://www.instagram.com/el_arte_de_vivir___/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.tiktok.com/@El_Arte_de_Vivir___" target="_blank" rel="noopener noreferrer"><i class="fab fa-tiktok"></i></a>
+                <a href="https://w.app/MZVcxG" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
+                  </div>
+               </div>
+            </div>
+         
+          </footer>
+   
+    
+
+</body>
+</html>
