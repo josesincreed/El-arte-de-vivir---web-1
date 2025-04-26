@@ -1,20 +1,21 @@
 # E-commerce "El Arte de Vivir"
 
-El Arte de Vivir es un proyecto de emprendimiento impulsado por una madre que busca digitalizar su negocio artesanal a través de una tienda en línea. El propósito principal es brindar oportunidades de empleo a mujeres con discapacidades, fomentando así la inclusión, la independencia y el empoderamiento femenino por medio del arte y la tecnología.
+The e-commerce site is developed using HTML, CSS, JavaScript, Vite, and Tailwind CSS. It features a shopping cart system, dynamic product pages, contact forms, and user-friendly navigation, offering an accessible and elegant online shopping experience focused on handmade art.
 
-# Objetivo del Proyecto
 
-  Desarrollar un e-commerce funcional y accesible que permita:
+# Project Objective
 
-- Añadir productos al carrito de compras 🛒
+ To develop a functional and accessible e-commerce platform that allows:
 
-- Gestionar formularios de envío 📦
+- Adding products to the shopping cart 🛒
 
-- Integrarse con una pasarela de pagos segura 💳
+- Managing shipping forms 📦
 
-- Incluir formularios de contacto para atención al cliente 📬
+- Integrating with a secure payment gateway 💳
 
-- Inicio de sesión
+- Including contact forms for customer support 📬
+
+- User login system
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
