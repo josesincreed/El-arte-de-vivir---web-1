@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arte de Vivir</title>
+    <link rel="icon" href="assets/imagenes/logo-arte-vivir-2.png">
+    <link rel="stylesheet" href="assets/css/header.css">
+    <link rel="stylesheet" href="assets/css/home.css">
+    <link rel="stylesheet" href="assets/css/footer.css">
+    <link rel="stylesheet" href="assets/css/contact.css">
+    <link rel="stylesheet" href="Art.html">
+    <link rel="stylesheet" href="Contact.html">
+    <link rel="stylesheet" href="Perfumes.html">
+    <link rel="stylesheet" href="Login.html">
+    <link rel="stylesheet" href="ShippingCart.html">
+    <link rel="stylesheet" href="Home.html">
+    <link rel="stylesheet" href="index.html">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="top-bar">
+          <div class="logo-container">
+            <a href="index.html"><img src="assets/imagenes/logo-arte-vivir-2.png" alt="Logo de la página"></a>
+          </div>
+
+          <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Buscar productos...">
+            <div id="searchResults" class="search-results"></div>
+          </div>
+      
+          <nav class="nav-links">
+            <a href="index.html">Inicio</a>
+            <a href="Art.html">Arte</a>
+            <a href="Home.html">Hogar</a>
+            <a href="Perfumes.html">Perfumes</a>
+          </nav>
+      
+          <div class="right-buttons">
+            <a href="ShippingCart.html">
+                <i class="fas fa-shopping-cart"></i>
+                <span id="cart-count" class="cart-count"></span>
+            </a>
+            <a href="Contact.html">Contáctenos</a>
+            <a href="Login.html">Iniciar Sesión</a>
+            
+          </div>
+      
+          <!-- Botón hamburguesa -->
+          <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+        </div>
+      
+        <!-- Menú desplegable móvil -->
+        <div class="mobile-menu" id="mobileMenu">
+          <nav>
+            <a href="index.html">Inicio</a>
+            <a href="Art.html">Arte</a>
+            <a href="Home.html">Hogar</a>
+            <a href="Perfumes.html">Perfumes</a>
+          </nav>
+          <div class="mobile-buttons">
+            <a href="ShippingCart.html" ><i class="fas fa-shopping-cart"></i></a>
+            <a href="Contact.html">Contáctenos</a>
+            <a href="Login.html">Iniciar Sesión</a>
+            
+          </div>
+        </div>
+    </header>
+    <main>
+        <h1>Contáctanos</h1>
+        <form id="contactForm">
+          <label for="name">Nombre completo</label>
+          <input type="text" id="name" name="name" required>
+    
+          <label for="email">Correo electrónico</label>
+          <input type="email" id="email" name="email" required>
+    
+          <label for="message">Mensaje</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+    
+          <button type="submit">Enviar</button>
+        </form>
+    </main>
+    <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-section">
+        <h3>Categorías</h3>
+        <ul>
+          <a href="Art.html"><li>Arte</li></a>
+          <a href="Home.html"><li>Hogar</li></a>
+          <a href="Perfumes.html"><li>Perfumes</li></a>
+        </ul>
+      </div>
+  
+      <div class="footer-section">
+        <h3>Síguenos</h3>
+        <ul>
+            <li><a href="https://www.instagram.com/el_arte_de_vivir___/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i> Instagram</a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=61565888271423" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook"></i> Facebook</a></li>
+            <li><a href="https://www.tiktok.com/@el_arte_de_vivir___" target="_blank" rel="noopener noreferrer"><i class="fab fa-tiktok"></i> TikTok</a></li>
+        </ul>
+      </div>
+  
+      <div class="footer-section">
+        <h3>Contáctanos</h3>
+        <ul>
+          <li><a href="mailto:elartedevivirartesanias@gmail.com" target="_blank">elartedevivirartesanias@gmail.com</a></li>
+          <li><a href="tel:+573214207921" target="_blank">+57 321 420 7921</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-copy">
+        © Todos los derechos reservados 2025 EL ARTE DE VIVIR
+      </div>
+  </footer>
+      
+   <script src="js/menuMovil.js"></script>
+   <script src="js/contact.js"></script>
+    <script src="js/cart.js"></script>
+    <script src="js/search.js"></script>
+
+</body>
+</html>

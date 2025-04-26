@@ -1,0 +1,131 @@
+/* Estilos para el menú de categorías */
+.art-categories {
+    background-color: #75737318;
+    padding: 10px 0;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.art-categories ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.art-categories li {
+    margin: 0 15px;
+}
+
+.art-categories a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+}
+
+.art-categories a:hover {
+    background-color: #f7eb42;
+    color: white;
+}
+
+section h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333; /* Color para los títulos, puedes cambiarlo si lo prefieres */
+    margin-bottom: 30px;;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 2px;
+    background: #333;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+
+/* Estilo para cuando se vea en pantallas pequeñas */
+@media (max-width: 768px) {
+    section h2 {
+        font-size: 28px; /* Ajustamos el tamaño para pantallas pequeñas */
+        letter-spacing: 1.5px;
+        margin-bottom: 20px;
+    }
+}
+
+.product-section {
+    padding: 10px 20px;
+    background-color: #fefefe;
+}
+
+
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 0 10px;
+}
+
+.product-card {
+    background-color: #fff;
+    border: 2px solid #eee;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+.product-card .info {
+    padding: 15px;
+    text-align: center;
+}
+
+.product-card .info h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.product-card .info p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.product-card .info small {
+    font-size: 14px;
+    color: #777;
+}
+
+.intro-arte {
+    background-color: #f1eef6;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px 15px;
+    margin: 0 auto 30px;
+    max-width: 900px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.intro-arte p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+

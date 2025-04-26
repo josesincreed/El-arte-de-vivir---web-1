@@ -1,7 +1,7 @@
 {
   "name": "boilerplate-vite-tailwindcss",
-  "version": "1.0.0",
-  "description": "Boilerplate Vite + TailwindCSS",
+  "version": "1.0.0",  
+  "description": "Boilerplate Vite + TailwindCSS",  
   "keywords": [
     "vite",
     "tailwindcss"
@@ -11,7 +11,7 @@
     "url": "https://github.com/zexarcore/vite-tailwindcss"
   },
   "author": {
-    "name": "zexarcore<Julio C. Cortes C.>",
+    "name": "zexarcore<Julio C. Cortes C.>",   
     "email": "zexarcore@protonmail.com",
     "url": "https://github.com/zexarcore"
   },

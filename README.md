@@ -1,17 +1,38 @@
-# Vite + Tailwind CSS Boilerplate
+# E-commerce "El Arte de Vivir"
 
-This project is a boilerplate that uses Vite and Tailwind CSS to create fast and modern web applications. It provides an optimized initial configuration for an efficient development workflow.
+El Arte de Vivir es un proyecto de emprendimiento impulsado por una madre que busca digitalizar su negocio artesanal a través de una tienda en línea. El propósito principal es brindar oportunidades de empleo a mujeres con discapacidades, fomentando así la inclusión, la independencia y el empoderamiento femenino por medio del arte y la tecnología.
+
+# Objetivo del Proyecto
+
+  Desarrollar un e-commerce funcional y accesible que permita:
+
+- Añadir productos al carrito de compras 🛒
+
+- Gestionar formularios de envío 📦
+
+- Integrarse con una pasarela de pagos segura 💳
+
+- Incluir formularios de contacto para atención al cliente 📬
+
+- Inicio de sesión
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Key Features
 
-- **Vite:** An extremely fast and lightweight frontend build tool that greatly improves the development experience.
-- **Tailwind CSS:** A utility-first CSS framework that allows you to quickly build custom user interfaces.
-- **Simplified Configuration:** Predefined configuration for a quick and easy start.
-- **Organized Project Structure:** A clear and maintainable folder structure.
-- **Fast Development:** Instant browser reload during development.
-- **Production Optimization:** Optimized builds for deployment.
+- 🛒 Shopping Cart – Add, update, or remove products from the cart in real time.
+
+- 📦 Shipping Form – Customers can enter their delivery details through an easy-to-use form.
+
+- 💳 Payment Gateway Integration – Ready for integration with secure payment platforms.
+
+- 🔐 User Authentication – Secure login and registration for users.
+
+- 📱 Responsive Design – Fully compatible with mobile devices and tablets.
+
+- 🧾 Order Status Tracking – Track the purchase process through multiple order states (e.g., pending, in process, approved, delivered).
+
+- 📬 Contact Form – For customer support, questions, or custom orders.
 
 ## Prerequisites
 Make sure you have Node.js and npm (Node Package Manager) installed on your system.
