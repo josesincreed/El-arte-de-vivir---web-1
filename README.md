@@ -44,7 +44,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 Follow these steps to start working on the project:
 **1. Clone the Repository:**
 ```sh
-git clone <REPOSITORY_URL>
+git clone <https://github.com/josesincreed/El-arte-de-vivir---web-1.git>
 Replace <REPOSITORY_URL> with the actual URL of your repository.
 ```
 **2. Navigate to the Project Directory:**
