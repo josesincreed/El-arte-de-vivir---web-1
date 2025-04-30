@@ -1,22 +1,29 @@
 {
-  "name": "boilerplate-vite-tailwindcss",
+  "name": "El-arte-de-vivir---web-1",
   "version": "1.0.0",  
-  "description": "Boilerplate Vite + TailwindCSS",  
+  "description": "Boilerplate Vite + TailwindCSS + JavaScript + HTML + CSS"  , 
   "keywords": [
     "vite",
-    "tailwindcss"
+    "tailwindcss",
+    "javascript",
+    "html",
+    "css",
+    "boilerplate",
+    "template",
+    "web",
+    "frontend"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zexarcore/vite-tailwindcss"
+    "url": "https://github.com/josesincreed/El-arte-de-vivir---web-1.git"
   },
   "author": {
-    "name": "zexarcore<Julio C. Cortes C.>",   
-    "email": "zexarcore@protonmail.com",
-    "url": "https://github.com/zexarcore"
+    "name": "josesincreed<Jose David Parra Uribe>",   
+    "email": "josedavidparrauribe@gmail.com",
+    "url": "https://github.com/josesincreed"
   },
   "license": "BSD 3-Clause",
-  "homepage": "https://github.com/zexarcore/vite-tailwindcss/blob/master/README.md",
+  "homepage": "https://github.com/josesincreed/El-arte-de-vivir---web-1/blob/master/README.md",
   "type": "module",
   "engines": {
     "node": ">=20",

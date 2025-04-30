@@ -79,6 +79,279 @@ const productos = [
       precio: 60000,
       descripcion: "Representación detallada de La Última Cena, ideal para el hogar.",
       imagen: "assets/imagenes/ultimacena.jpg"
-    }
+    },
+    // Pulseras
+  {
+    id: 10,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera de los 7 nudos",
+    precio: 7000,
+    descripcion: "Pulsera de protección hecha a mano con 7 nudos simbólicos.",
+    imagen: "assets/imagenes/7nudos.jpg"
+  },
+  {
+    id: 11,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Denarios de oración",
+    precio: 10000,
+    descripcion: "Pulsera espiritual con cuentas para acompañar tus oraciones.",
+    imagen: "assets/imagenes/denarios.jpg"
+  },
+  {
+    id: 12,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulseras personalizables",
+    precio: 10000,
+    descripcion: "Diseña tu pulsera a tu gusto: colores, nombres y símbolos.",
+    imagen: "assets/imagenes/manillasconnombres.jpg"
+  },
+  {
+    id: 13,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulseras de nudos",
+    precio: 9000,
+    descripcion: "Pulseras tejidas con nudos decorativos y resistentes.",
+    imagen: "assets/imagenes/manillasdenudoz.jpg"
+  },
+  {
+    id: 14,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera de coral",
+    precio: 10000,
+    descripcion: "Hermosa pulsera hecha con cuentas de coral natural.",
+    imagen: "assets/imagenes/manillablamcaazul.jpg"
+  },
+  {
+    id: 15,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera de coral verde",
+    precio: 10000,
+    descripcion: "Pulsera con cuentas de coral en tonos verdes vibrantes.",
+    imagen: "assets/imagenes/manillademar.jpg"
+  },
+  {
+    id: 16,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera de rosa",
+    precio: 10000,
+    descripcion: "Pulsera decorativa con detalle central en forma de rosa.",
+    imagen: "assets/imagenes/manilladerosaroja.jpg"
+  },
+  {
+    id: 17,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera tipo uva",
+    precio: 10000,
+    descripcion: "Diseño artesanal con cuentas agrupadas como racimos de uva.",
+    imagen: "assets/imagenes/manillamorada.jpg"
+  },
+  {
+    id: 18,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera de coral rojo",
+    precio: 10000,
+    descripcion: "Pulsera vibrante elaborada con coral rojo auténtico.",
+    imagen: "assets/imagenes/manilladerosa.jpg"
+  },
+  {
+    id: 19,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera de coral rosa",
+    precio: 10000,
+    descripcion: "Pulsera suave y femenina con cuentas de coral rosado.",
+    imagen: "assets/imagenes/manillarosada.jpg"
+  },
+  {
+    id: 20,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera turca",
+    precio: 10000,
+    descripcion: "Pulsera con ojo turco para protección y buena energía.",
+    imagen: "assets/imagenes/manilladecolores.jpg"
+  },
+  {
+    id: 21,
+    categoria: "Arte",
+    seccion: "Pulseras",
+    nombre: "Pulsera Colombia",
+    precio: 10000,
+    descripcion: "Pulsera con los colores de la bandera de Colombia. ¡Luce tu orgullo!",
+    imagen: "assets/imagenes/manillaazul.jpg"
+  },
+  // Collares
+  {
+    id: 22,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Collar con dije de rosa",
+    precio: 18000,
+    descripcion: "Elegante collar con un dije en forma de rosa, ideal para un toque femenino.",
+    imagen: "assets/imagenes/rosa.jpg"
+  },
+  {
+    id: 23,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Collar con coral verde",
+    precio: 18000,
+    descripcion: "Collar adornado con coral verde, ideal para un look natural.",
+    imagen: "assets/imagenes/colladijedeestrella.jpg"
+  },
+  {
+    id: 24,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Collar de mascota",
+    precio: 18000,
+    descripcion: "Collar con un diseño único de mascota, ideal para los amantes de los animales.",
+    imagen: "assets/imagenes/collarplateado.jpg"
+  },
+  {
+    id: 25,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Collar de coral azul",
+    precio: 18000,
+    descripcion: "Collar con piezas de coral azul, perfecto para un estilo bohemio.",
+    imagen: "assets/imagenes/collarazul.jpg"
+  },
+  {
+    id: 26,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Collar de coral blanco",
+    precio: 18000,
+    descripcion: "Hermoso collar con coral blanco, ideal para complementar tu look elegante.",
+    imagen: "assets/imagenes/collardemarblanco.jpg"
+  },
+  {
+    id: 27,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Collar con dije de flor",
+    precio: 18000,
+    descripcion: "Collar delicado con un dije en forma de flor, para un toque romántico.",
+    imagen: "assets/imagenes/collarcoloridodijeflor.jpg"
+  },
+  {
+    id: 28,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Camandula de oracion",
+    precio: 18000,
+    descripcion: "Camándula tradicional para oración, ideal para momentos de meditación.",
+    imagen: "assets/imagenes/camandula.jpg"
+  },
+  {
+    id: 29,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Collar de coral cobre",
+    precio: 18000,
+    descripcion: "Collar de coral cobre, para un estilo único y elegante.",
+    imagen: "assets/imagenes/collarcobre.jpg"
+  },
+  {
+    id: 30,
+    categoria: "Arte",
+    seccion: "Collares",
+    nombre: "Camandula dorada",
+    precio: 18000,
+    descripcion: "Camándula dorada para oración, perfecta para el camino espiritual.",
+    imagen: "assets/imagenes/camnduladorada.jpg"
+  },
+  //aretes
+  {
+    id: 31,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes tipo planta",
+    precio: 11000,
+    descripcion: "Aretes inspirados en la naturaleza con diseño de planta.",
+    imagen: "assets/imagenes/aretaplanta.jpg"
+  },
+  {
+    id: 32,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes tipo hoja",
+    precio: 11000,
+    descripcion: "Aretes con diseño elegante de hoja, perfectos para cualquier ocasión.",
+    imagen: "assets/imagenes/hojacafe.jpg"
+  },
+  {
+    id: 33,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes arbol mistico",
+    precio: 11000,
+    descripcion: "Aretes con figura de árbol místico que representa crecimiento y sabiduría.",
+    imagen: "assets/imagenes/aretesarboles.jpg"
+  },
+  {
+    id: 34,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes clasicos",
+    precio: 11000,
+    descripcion: "Aretes de estilo clásico que combinan con todo.",
+    imagen: "assets/imagenes/aretasazules.jpg"
+  },
+  {
+    id: 35,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes de aro verde marino",
+    precio: 11000,
+    descripcion: "Aros en color verde marino que aportan un toque fresco y elegante.",
+    imagen: "assets/imagenes/areteredondoazul.jpg"
+  },
+  {
+    id: 36,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes multi color",
+    precio: 11000,
+    descripcion: "Aretes vibrantes con múltiples colores para un look alegre.",
+    imagen: "assets/imagenes/areteredondo.jpg"
+  },
+  {
+    id: 37,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes Ying y yang",
+    precio: 7000,
+    descripcion: "Aretes con símbolo Ying y Yang, equilibrio entre energía positiva y negativa.",
+    imagen: "assets/imagenes/aretecorazonjinjan.jpg"
+  },
+  {
+    id: 38,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Pendientes de corazon",
+    precio: 7000,
+    descripcion: "Pendientes románticos con forma de corazón.",
+    imagen: "assets/imagenes/aretespequenosdecorazon.jpg"
+  },
+  {
+    id: 39,
+    categoria: "Arte",
+    seccion: "Aretes",
+    nombre: "Aretes de corazon negros",
+    precio: 7000,
+    descripcion: "Aretes elegantes con diseño de corazón en color negro.",
+    imagen: "assets/imagenes/corazonnegro.jpg"
+  }
   ];
   
