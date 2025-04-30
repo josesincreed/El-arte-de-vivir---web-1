@@ -352,6 +352,232 @@ const productos = [
       precio: 7000,
       descripcion: "Aretes elegantes con diseño de corazón en color negro.",
       imagen: "assets/imagenes/corazonnegro.jpg"
+    },
+    //PRODUCTOS HOGAR
+    {
+      id: 40,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splash Brisa marina",
+      precio: 10000,
+      descripcion: "Aromatiza tu hogar con una fresca brisa marina.",
+      imagen: "assets/imagenes/ambientadorbrisa.jpg"
+    },
+    {
+      id: 41,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splash Be Clean",
+      precio: 10000,
+      descripcion: "Fragancia fresca y limpia para tu espacio.",
+      imagen: "assets/imagenes/ambientadorbeclean.jpg"
+    },
+    {
+      id: 42,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splash Maracuya",
+      precio: 10000,
+      descripcion: "Dulce y tropical aroma a maracuyá.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 43,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splash Flores del campo",
+      precio: 10000,
+      descripcion: "Aroma floral para ambientes acogedores.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 44,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splas Nuevo Carro",
+      precio: 10000,
+      descripcion: "Fragancia clásica de carro nuevo.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 45,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splash Talco #4",
+      precio: 10000,
+      descripcion: "Aroma suave y reconfortante a talco.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 46,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splash Sandia",
+      precio: 10000,
+      descripcion: "Refrescante aroma a sandía madura.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 47,
+      categoria: "Hogar",
+      seccion: "Ambientadores",
+      nombre: "Ambientador en splash Citronela",
+      precio: 10000,
+      descripcion: "Citronela natural, ideal para repeler insectos.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 48,
+      categoria: "Hogar",
+      seccion: "Cremas corporales",
+      nombre: "Crema corporal Pera",
+      precio: 6000,
+      descripcion: "Hidratante corporal con fragancia a pera.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 49,
+      categoria: "Hogar",
+      seccion: "Cremas corporales",
+      nombre: "Crema corporal Coconut",
+      precio: 6000,
+      descripcion: "Nutrición tropical con aroma a coco.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 50,
+      categoria: "Hogar",
+      seccion: "Cremas corporales",
+      nombre: "Crema corporal Bon Bon Bun",
+      precio: 6000,
+      descripcion: "Deliciosa fragancia inspirada en el dulce Bon Bon Bum.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 51,
+      categoria: "Hogar",
+      seccion: "Cremas corporales",
+      nombre: "Crema corporal Pera",
+      precio: 6000,
+      descripcion: "Crema hidratante con doble carga de aroma a pera.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 52,
+      categoria: "Hogar",
+      seccion: "Cremas corporales",
+      nombre: "Colonia en splash Coconut",
+      precio: 20000,
+      descripcion: "Refrescante colonia con fragancia de coco.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 53,
+      categoria: "Hogar",
+      seccion: "Cremas corporales",
+      nombre: "Colonia en splash Bon Bon Bum",
+      precio: 20000,
+      descripcion: "Colonia divertida con aroma a Bon Bon Bum.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 54,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Silicona multiusos emulsionada",
+      precio: 14000,
+      descripcion: "Ideal para proteger y dar brillo a superficies.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 55,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Limpiador multiusos Limon",
+      precio: 10000,
+      descripcion: "Aroma cítrico con poder limpiador.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 56,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Limpiador multiusos Canela",
+      precio: 10000,
+      descripcion: "Aroma cálido a canela para tu hogar.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 57,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Limpiador multiusos Pino",
+      precio: 10000,
+      descripcion: "Fragancia clásica a pino fresco.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 58,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Limpiador multiusos Cereza",
+      precio: 10000,
+      descripcion: "Limpieza efectiva con fragancia a cereza.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 59,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Limpiador multiusos Flores del campo",
+      precio: 10000,
+      descripcion: "Fragancia floral para todos los espacios.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 60,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Limpiador multiusos Limon",
+      precio: 10000,
+      descripcion: "Versión alternativa del limpiador con aroma a limón.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 61,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Jabon liquido anti bacterial Manzana verde",
+      precio: 4500,
+      descripcion: "Jabón líquido con aroma fresco de manzana verde.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 62,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Jabon liquido anti bacterial Coco",
+      precio: 4500,
+      descripcion: "Jabón líquido antibacteriano con aroma tropical.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 63,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Jabon liquido anti bacterial Sandia",
+      precio: 4500,
+      descripcion: "Refrescante jabón líquido con aroma a sandía.",
+      imagen: "assets/imagenes/budaazul.jpg"
+    },
+    {
+      id: 64,
+      categoria: "Hogar",
+      seccion: "Multiusos",
+      nombre: "Jabon liquido anti bacterial Coco y Avena",
+      precio: 4500,
+      descripcion: "Jabón líquido suave con coco y avena.",
+      imagen: "assets/imagenes/budaazul.jpg"
     }
   ];
   

@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="assets/css/header.css">
     <link rel="stylesheet" href="assets/css/home.css">
     <link rel="stylesheet" href="assets/css/footer.css">
+    <link rel="stylesheet" href="assets/css/art.css">
+    <link rel="stylesheet" href="assets/css/normalize.css">
     <link rel="stylesheet" href="Art.html">
     <link rel="stylesheet" href="Contact.html">
     <link rel="stylesheet" href="Perfumes.html">
@@ -67,7 +69,35 @@
         </div>
     </header>
     <main>
+      <nav class="art-categories">
+        <ul>
+          <li><a href="#ambientadores">Ambientadores</a></li>
+          <li><a href="#cremasCorporales">Cremas Corporales</a></li>
+          <li><a href="#multiusos">Multiusos</a></li>
+        </ul>
+      </nav>
+      <div class="intro-arte">
+        <p>
+          Bienvenido a nuestra sección de Hogar, donde el bienestar y la armonía se convierten en parte de tu día a día. Aquí encontrarás ambientadores en splash con aromas envolventes, cremas corporales nutritivas y productos multiusos pensados para cuidar tu entorno con amor. Cada artículo ha sido creado artesanalmente por mujeres que, desde su esencia y experiencia, buscan ofrecerte una manera cálida, práctica y natural de cuidar tu espacio y tu cuerpo. Porque el hogar también es un reflejo del alma.
 
+
+        </p>
+      </div>
+       <!-- Sección de productos -->
+       <section id="ambientadores" class="product-section">
+        <h2>Ambientadores</h2>
+        <div class="product-grid" id="ambientadoresContainer"></div>
+      </section>
+      
+      <section id="cremas" class="product-section">
+        <h2>Cremas corporales</h2>
+        <div class="product-grid" id="cremasContainer"></div>
+      </section>
+      
+      <section id="multiusos" class="product-section">
+        <h2>Multiusos</h2>
+        <div class="product-grid" id="multiusosContainer"></div>
+      </section>
     </main>
     <footer class="footer">
     <div class="footer-container">
@@ -102,9 +132,13 @@
       </div>
   </footer>
       
+    
     <script src="js/menuMovil.js"></script>
+    <script src="js/product.js"></script>
     <script src="js/cart.js"></script>
     <script src="js/search.js"></script>
-
+    <script src="js/home.js"></script>
+    <script src="js/productDetail.js"></script>
+    
 </body>
 </html>
