@@ -1,26 +1,86 @@
 [
-{
-    "image": "http://localhost:5173/assets/imagenes/budaazul.jpg",
-    "title": "Buda de oración",
-    "date": "2025-05-01",
-    "description": "Figura pintada a mano, ideal para decorar tu hogar."
-},
-{
-    "image": "http://localhost:5173/assets/imagenes/budarojo.jpg",
-    "title": "Buda de oración",
-    "date": "2025-05-01",
-    "description": "Figura pintada a mano, ideal para decorar tu hogar."
-},
-{
-    "image": "http://localhost:5173/assets/imagenes/budaverde.jpg",
-    "title": "Buda de oración",
-    "date": "2025-05-01",
-    "description": "Figura pintada a mano, ideal para decorar tu hogar."
-},
-{
-    "image": "http://localhost:5173/assets/imagenes/budavino.jpg",
-    "title": "Buda de oración",
-    "date": "2025-05-01",
-    "description": "Figura pintada a mano, ideal para decorar tu hogar."
-}
+    {
+        "image": "http://localhost:5173/assets/imagenes/7nudos.jpg",
+        "title": "Pulsera de los 7 nudos",
+        "price": "7.000",
+        "description": "Pulsera de protección hecha a mano con 7 nudos simbólicos.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/denarios.jpg",
+        "title": "Denarios de oración",
+        "price": "10.000",
+        "description": "Pulsera espiritual con cuentas para acompañar tus oraciones.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manillasconnombres.jpg",
+        "title": "Pulseras personalizables",
+        "price": "10.000",
+        "description": "Diseña tu pulsera a tu gusto: colores, nombres y símbolos.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manillasdenudoz.jpg",
+        "title": "Pulseras de nudos",
+        "price": "9.000",
+        "description": "Pulseras tejidas con nudos decorativos y resistentes.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manillablamcaazul.jpg",
+        "title": "Pulsera de coral",
+        "price": "10.000",
+        "description": "Hermosa pulsera hecha con cuentas de coral natural.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manillademar.jpg",
+        "title": "Pulsera de coral verde",
+        "price": "10.000",
+        "description": "Pulsera con cuentas de coral en tonos verdes vibrantes.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manilladerosaroja.jpg",
+        "title": "Pulsera de rosa",
+        "price": "10.000",
+        "description": "Pulsera decorativa con detalle central en forma de rosa.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manillamorada.jpg",
+        "title": "Pulsera tipo uva",
+        "price": "10.000",
+        "description": "Diseño artesanal con cuentas agrupadas como racimos de uva.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manilladerosa.jpg",
+        "title": "Pulsera de coral rojo",
+        "price": "10.000",
+        "description": "Pulsera vibrante elaborada con coral rojo auténtico.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manillarosada.jpg",
+        "title": "Pulsera de coral rosa",
+        "price": "10.000",
+        "description": "Pulsera suave y femenina con cuentas de coral rosado.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manilladecolores.jpg",
+        "title": "Pulsera turca",
+        "price": "10.000",
+        "description": "Pulsera con ojo turco para protección y buena energía.",
+        "category_ID": 2
+      },
+      {
+        "image": "http://localhost:5173/assets/imagenes/manillaazul.jpg",
+        "title": "Pulsera Colombia",
+        "price": "10.000",
+        "description": "Pulsera con los colores de la bandera de Colombia. ¡Luce tu orgullo!",
+        "category_ID": 2
+      }
 ]

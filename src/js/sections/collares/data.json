@@ -1,0 +1,134 @@
+[
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/rosa.jpg",
+    
+    "tittle": "Collar con dije de rosa",
+    
+    "price" : "18.000",
+    
+    "description" : "Elegante collar con un dije en forma de rosa, ideal para un toque femenino.",
+    
+    "category_ID" : 3
+    
+    },
+    
+     
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/colladijedeestrella.jpg",
+    
+    "tittle": "Collar con coral verde",
+    
+    "price" : "18.000",
+    
+    "description" : "Collar adornado con coral verde, ideal para un look natural.",
+    
+    "category_ID" : 3
+    
+     
+    
+    },
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/collarplateado.jpg",
+    
+    "tittle": "Collar de mascota",
+    
+    "price" : "18.000",
+    
+    "description" : "Collar con un diseño único de mascota, ideal para los amantes de los animales..",
+    
+    "category_ID" : 3
+    
+    },
+    
+     
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/collarazul.jpg",
+    
+    "tittle": "Collar de coral azul",
+    
+    "price" : "18.000",
+    
+    "description" : "Collar adornado con coral verde, ideal para un look natural.",
+    
+    "category_ID" : 3
+    
+    },
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/collardemarblanco.jpg",
+    
+    "tittle": "Collar de coral blanco",
+    
+    "price" : "18.000",
+    
+    "description" : "Collar adornado con coral verde, ideal para un look natural." ,
+    
+    "category_ID" : 3
+    
+    },
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/collarcoloridodijeflor.jpg",
+    
+    "tittle": "Collar con dije de flor",
+    
+    "price" : "18.000",
+    
+    "description" : "Collar delicado con un dije en forma de flor, para un toque romántico.",
+    
+    "category_ID" : 3
+    
+    },
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/camandula.jpg",
+    
+    "tittle": "Camandula de oracion",
+    
+    "price" : "18.000",
+    
+    "description" : "Camándula tradicional para oración, ideal para momentos de meditación.",
+    
+    "category_ID" : 3
+    
+    },
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/collarcobre.jpg",
+    
+    "tittle": "Collar de coral cobre",
+    
+    "price" : "18.000",
+    
+    "description" : "Collar de coral cobre, para un estilo único y elegante.",
+    
+    "category_ID" : 3
+    
+    },
+    
+    {
+    
+    "image": "file:///C:/Users/CESDE/Downloads/El-arte-de-vivir---web-1-main/src/assets/imagenes/camnduladorada.jpg",
+    
+    "tittle": "Camandula dorada",
+    
+    "price" : "18.000",
+    
+    "description" : "Camándula dorada para oración, perfecta para el camino espiritual.",
+    
+    "category_ID" : 3  
+    
+    }
+    
+]

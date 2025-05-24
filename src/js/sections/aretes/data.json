@@ -1,0 +1,58 @@
+[
+
+    {"image": "http://127.0.0.1:5500/src/assets/imagenes/aretaplanta.jpg",
+     "title": "Aretes tipo planta",
+     "price": "11.000",
+     "description": "Aretes inspirados en la naturaleza con diseño de planta.",
+     "category iD": 4 },
+  
+     {"image": "http://127.0.0.1:5500/src/assets/imagenes/hojacafe.jpg",
+     "title": "Aretes tipo hoja",
+     "price": "11.000",
+     "description": "Aretes con diseño elegante de hoja, perfectos para cualquier ocasión.",
+     "category iD": 4 },
+  
+     {"image": "http://127.0.0.1:5500/src/assets/imagenes/aretesarboles.jpg",
+     "title": "Aretes arbol mistico",
+     "price": "11.000",
+     "description": "Aretes con figura de árbol místico que representa crecimiento y sabiduría.",
+     "category iD": 4 },
+  
+     {"image": "http://127.0.0.1:5500/src/assets/imagenes/aretasazules.jpg",
+     "title": "Aretas clasicas",
+     "price": "11.000",
+     "description": "Aretes de estilo clásico que combinan con todo.",
+     "category iD": 4},
+  
+  
+     {"image": "http://127.0.0.1:5500/src/assets/imagenes/areteredondoazul.jpg",
+     "title": "Aretas de oro verde marino",
+     "price": "11.000",
+     "description": "Aros en color verde marino que aportan un toque fresco y elegante.",
+     "category iD": 4 },
+  
+     {"image": "http://127.0.0.1:5500/src/assets/imagenes/areteredondo.jpg",
+     "title": "Aretas multicolor",
+     "price": "11,000",
+     "description": "Aretes vibrantes con múltiples colores para un look alegre.",
+     "category iD": 4 },
+  
+     {"image": "http://127.0.0.1:5500/src/assets/imagenes/aretecorazonjinjan.jpg",
+     "title": "Aretes Ying y yang",
+     "price": "7.000",
+     "description": "Aretes con símbolo Ying y Yang, equilibrio entre energía positiva y negativa.",
+     "category iD": 4 },
+  
+     {"$schema": "http://127.0.0.1:5500/src/assets/imagenes/aretespequenosdecorazon.jpg",
+     "title": "Pendientes de corazon",
+     "price": "7.000",
+     "description": "Pendientes románticos con forma de corazón.",
+     "category iD": 4 },
+  
+     {"image": "http://127.0.0.1:5500/src/assets/imagenes/corazonnegro.jpg",
+     "title": "Aretes de corazon",
+     "price": "7.000",
+     "description": "Aretes elegantes con diseño de corazón en color negro.",
+     "category iD": 4 }
+  
+  ]

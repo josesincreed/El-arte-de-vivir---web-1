@@ -1,0 +1,52 @@
+[
+    
+    {"image": "http://localhost:5173/assets/imagenes/budaportavelas.jpg",
+    "title": "Buda Portavelas ",
+    "price": "40.000",
+    "description": "Escultura artesanal perfecta para ambientar con luz y calma.",
+    "category_ID": 1},
+    
+    {"image": "http://localhost:5173/assets/imagenes/budacobre.jpg",
+    "title": "Buda Color Cobre",
+    "price": "40.000",
+    "description": "Elegante figura de Buda en tono cobre para un toque espiritual.",
+    "category_ID": 1},
+
+    {"image": "http://localhost:5173/assets/imagenes/3budas.jpg",
+    "title": "Los 3 sabios",
+    "price": "60.000",
+    "description": "Figuras pintadas a mano, los 3 sabios: no ver, no escuchar y no hablar.",
+    "category_ID": 1},
+
+    {"image": "http://localhost:5173/assets/imagenes/budadelado.jpg",
+    "title": "Buda durmiente",
+    "price": "30.000",
+    "description": "Representación serena del Buda en descanso, ideal para decorar.",
+    "category_ID": 1},
+
+    {"image": "http://localhost:5173/assets/imagenes/virgenmaria.jpg",
+    "title": "Virgen maria",
+    "price": "50.000",
+    "description": "Escultura espiritual de la Virgen María, símbolo de fe y protección.",
+    "category_ID": 1},
+    
+
+    {"image": "http://localhost:5173/assets/imagenes/alasdeangel.jpg",
+    "title": "Alas porta velas",
+    "price": "50.000",
+    "description": "Decoración con alas que sostienen velas, ideal para crear ambiente.",
+    "category_ID": 1},
+
+    {"image": "http://localhost:5173/assets/imagenes/caballos.jpg",
+    "title": "Cuadro de caballos",
+    "price": "60.000",
+    "description": "Cuadro artístico que captura la fuerza y elegancia de los caballos.",
+    "category_ID": 1},
+
+    {"image": "http://localhost:5173/assets/imagenes/ultimacena.jpg",
+    "title": "La ultima cena",
+    "price": "60.000",
+    "description": "Representación detallada de La Última Cena, ideal para el hogar.",
+    "category_ID": 1
+    }
+]
