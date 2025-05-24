@@ -1,11 +1,3 @@
-
-/*const productos = [
-  { nombre: "Vela aromática Sakura", precio: 25000, imagen: "assets/productos/vela-sakura.jpg" },
-  { nombre: "Cuadro en acuarela", precio: 40000, imagen: "assets/productos/cuadro-acuarela.jpg" },
-  { nombre: "Set de incienso natural", precio: 18000, imagen: "assets/productos/incienso.jpg" }
-];
-*/
-
 const searchInput = document.getElementById("searchInput");
 const searchResults = document.getElementById("searchResults");
 

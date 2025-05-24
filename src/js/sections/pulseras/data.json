@@ -1,0 +1,26 @@
+[
+{
+    "image": "http://localhost:5173/assets/imagenes/budaazul.jpg",
+    "title": "Buda de oración",
+    "date": "2025-05-01",
+    "description": "Figura pintada a mano, ideal para decorar tu hogar."
+},
+{
+    "image": "http://localhost:5173/assets/imagenes/budarojo.jpg",
+    "title": "Buda de oración",
+    "date": "2025-05-01",
+    "description": "Figura pintada a mano, ideal para decorar tu hogar."
+},
+{
+    "image": "http://localhost:5173/assets/imagenes/budaverde.jpg",
+    "title": "Buda de oración",
+    "date": "2025-05-01",
+    "description": "Figura pintada a mano, ideal para decorar tu hogar."
+},
+{
+    "image": "http://localhost:5173/assets/imagenes/budavino.jpg",
+    "title": "Buda de oración",
+    "date": "2025-05-01",
+    "description": "Figura pintada a mano, ideal para decorar tu hogar."
+}
+]
