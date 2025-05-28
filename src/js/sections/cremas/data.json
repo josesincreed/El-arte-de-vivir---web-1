@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Crema corporal Pera",
+      "categoryId": 6,
+      "price": 6000,
+      "stock": 50,
+      "active": true
+    },
+    {
+      "name": "Crema corporal Coconut",
+      "categoryId": 6,
+      "price": 6000,
+      "stock": 50,
+      "active": true
+    },
+    {
+      "name": "Crema corporal Bon Bon Bun",
+      "categoryId": 6,
+      "price": 6000,
+      "stock": 50,
+      "active": true
+    },
+    {
+      "name": "Crema corporal Pera",
+      "categoryId": 6,
+      "price": 6000,
+      "stock": 50,
+      "active": true
+    },
+    {
+      "name": "Colonia en splash Coconut",
+      "categoryId": 6,
+      "price": 20000,
+      "stock": 50,
+      "active": true
+    },
+    {
+      "name": "Colonia en splash Bon Bon Bum",
+      "categoryId": 6,
+      "price": 20000,
+      "stock": 50,
+      "active": true
+    }
+  ]
+  

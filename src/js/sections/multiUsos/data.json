@@ -1,0 +1,80 @@
+[
+    {
+      "name": "Silicona multiusos emulsionada",
+      "categoryId": 7,
+      "price": 14000,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Limpiador multiusos Limon",
+      "categoryId": 7,
+      "price": 10000,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Limpiador multiusos Canela",
+      "categoryId": 7,
+      "price": 10000,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Limpiador multiusos Pino",
+      "categoryId": 7,
+      "price": 10000,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Limpiador multiusos Cereza",
+      "categoryId": 7,
+      "price": 10000,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Limpiador multiusos Flores del campo",
+      "categoryId": 7,
+      "price": 10000,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Limpiador multiusos Limon",
+      "categoryId": 7,
+      "price": 10000,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Jabon liquido anti bacterial Manzana verde",
+      "categoryId": 7,
+      "price": 4500,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Jabon liquido anti bacterial Coco",
+      "categoryId": 7,
+      "price": 4500,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Jabon liquido anti bacterial Sandia",
+      "categoryId": 7,
+      "price": 4500,
+      "stock": 40,
+      "active": true
+    },
+    {
+      "name": "Jabon liquido anti bacterial Coco y Avena",
+      "categoryId": 7,
+      "price": 4500,
+      "stock": 40,
+      "active": true
+    }
+  ]
+  

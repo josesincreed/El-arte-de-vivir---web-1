@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="assets/css/home.css">
     <link rel="stylesheet" href="assets/css/footer.css">
     <link rel="stylesheet" href="assets/css/contact.css">
+    <link rel="stylesheet" href="assets/css/art.css">
     <link rel="stylesheet" href="Art.html">
     <link rel="stylesheet" href="Contact.html">
     <link rel="stylesheet" href="Perfumes.html">
@@ -68,25 +69,53 @@
         </div>
     </header>
     <main>
-        <h1>Contáctanos</h1>
-        <form id="contactForm">
-          <label for="name">Nombre completo</label>
-          <input type="text" id="name" name="name" required>
+
+      <nav class="art-categories"></nav>
+      <section class="contact-section">
+        <div class="contact-container">
+          <div class="contact-text">
+            <h2>¡Únete a Nuestro Equipo!</h2>
+            <p>
+              ¿Te apasiona el arte y las artesanías? Estamos buscando personas con talento, dedicación y amor por lo hecho a mano. Si deseas formar parte de una comunidad creativa que transforma vidas a través del arte, esta es tu oportunidad.
+            </p>
+          </div>
+          <img src="assets/imagenes/banner3.jpg" alt="Equipo de trabajo" class="contact-image">
+        </div>
     
-          <label for="email">Correo electrónico</label>
-          <input type="email" id="email" name="email" required>
+        <form id="contactForm" class="contact-form">
+          <label for="nombres">Nombres:</label>
+          <input type="text" id="nombres" name="nombres" required />
     
-          <label for="message">Mensaje</label>
-          <textarea id="message" name="message" rows="5" required></textarea>
+          <label for="apellidos">Apellidos:</label>
+          <input type="text" id="apellidos" name="apellidos" required />
+    
+          <label for="fechaNacimiento">Fecha de nacimiento:</label>
+          <input type="date" id="fechaNacimiento" name="fechaNacimiento" required />
+    
+          <label for="residencia">Lugar de residencia:</label>
+          <input type="text" id="residencia" name="residencia" required />
+    
+          <label for="discapacidad">¿Tienes alguna discapacidad? (Si - Especifique cuál /No):</label>
+          <input type="text" id="discapacidad" name="discapacidad" required />
+    
+          <label for="telefono">Teléfono:</label>
+          <input type="tel" id="telefono" name="telefono" required />
+    
+          <label for="correo">Correo electrónico:</label>
+          <input type="email" id="correo" name="correo" required />
     
           <button type="submit">Enviar</button>
         </form>
+      </section>
+    
+      
     </main>
     <footer class="footer">
     <div class="footer-container">
       <div class="footer-section">
         <h3>Categorías</h3>
         <ul>
+          <a href="index.html"><li>Inicio</li></a>
           <a href="Art.html"><li>Arte</li></a>
           <a href="Home.html"><li>Hogar</li></a>
           <a href="Perfumes.html"><li>Perfumes</li></a>

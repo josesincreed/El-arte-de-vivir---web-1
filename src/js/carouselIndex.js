@@ -17,12 +17,12 @@
         // Auto deslizar cada 10 segundos
         let autoSlide = setInterval(() => {
           moveSlide(1);
-        }, 10000);
+        }, 7000);
       
         function resetAutoSlide() {
           clearInterval(autoSlide);
           autoSlide = setInterval(() => {
             moveSlide(1);
-          }, 10000);
+          }, 7000);
         }
    

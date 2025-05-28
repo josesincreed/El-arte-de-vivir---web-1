@@ -1,0 +1,213 @@
+.blog-historia {
+    background-color: #fdf9f9;
+    padding: 60px 20px 0px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+  }
+  
+  .contenedor-historia {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .texto-historia {
+    flex: 1 1 500px;
+  }
+  
+  .texto-historia h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #881C21;
+  }
+  
+  .texto-historia p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 16px;
+    font-weight: bold;
+    color: #333;
+
+  }
+  
+  .imagenes-historia {
+    flex: 1 1 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .img-principal {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+
+  .blog-elaboracion {
+    background-color: #fff7fb;
+    padding: 60px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #444;
+  }
+  
+  .contenedor-elaboracion {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .imagen-elaboracion {
+    flex: 1 1 400px;
+  }
+  
+  .img-elaboracion-principal {
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+  }
+  
+  .texto-elaboracion {
+    flex: 1 1 500px;
+  }
+  
+  .texto-elaboracion h2 {
+    font-size: 2.3rem;
+    margin-bottom: 20px;
+    color: #881C21;
+  }
+  
+  .texto-elaboracion p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .galeria-pasos {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .galeria-pasos img {
+    width: 48%;
+    border-radius: 0.75rem;
+    object-fit: cover;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  }
+
+  .equipo-invitacion {
+    background-color: #fef9ff;
+    padding: 60px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+  }
+  
+  .equipo-contenido {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .equipo-texto {
+    flex: 1 1 500px;
+  }
+  
+  .equipo-texto h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #881C21;
+  }
+  
+  .equipo-texto p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 25px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .btn-postularme {
+    display: inline-block;
+    background-color: #881C21;
+    color: white;
+    padding: 12px 25px;
+    font-size: 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-postularme:hover {
+    background-color: #f5d477;
+  }
+  
+  .equipo-imagen {
+    flex: 1 1 400px;
+  }
+  
+  .equipo-imagen img {
+    width: 100%;
+    border-radius: 1rem;
+    object-fit: cover;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .equipo-contenido {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .equipo-imagen img {
+      max-height: 300px;
+    }
+  }
+  
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .contenedor-elaboracion {
+      flex-direction: column-reverse;
+    }
+  
+    .galeria-pasos img {
+      width: 100%;
+    }
+  }
+  
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .contenedor-historia {
+      flex-direction: column;
+    }
+  
+    .galeria-secundaria {
+      flex-direction: column;
+    }
+  
+    .galeria-secundaria img {
+      max-width: 100%;
+    }
+  }
+  

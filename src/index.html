@@ -70,17 +70,40 @@
         </div>
     </header>
     <main>
-    <section class="carousel">
+      <section class="carousel">
         <div class="carousel-track" id="carouselTrack">
-          <img src="assets/imagenes/banner2.jpg" alt="Imagen 1">
-          <img src="assets/imagenes/banner3.jpg" alt="Imagen 2">
-          <img src="assets/imagenes/banner1.jpg" alt="Imagen 3">
-        </div>
+          <!-- Slide 1 -->
+          <div class="slide">
+            <img src="assets/imagenes/banner2.jpg" alt="Imagen 1">
+            <div class="overlay">
+              <h2>¡Nuestra Historia!</h2>
+              <p>Conoce acerca de nosotras y cómo nace este proyecto.</p>
+              <a href="blog.html" class="btn">Ir al blog</a>
+            </div>
+          </div>
       
-        <!-- Botones de navegación -->
-        <button class="carousel-btn prev" onclick="moveSlide(-1)">❮</button>
-        <button class="carousel-btn next" onclick="moveSlide(1)">❯</button>
-   </section>
+          <!-- Slide 2 -->
+          <div class="slide">
+            <img src="assets/imagenes/banner3.jpg" alt="Imagen 2">
+            <div class="overlay">
+              <h2>¡No esperes más!</h2>
+              <p>Se parte de nuestro equipo de mujeres.</p>
+              <a href="Contact.html" class="btn btn--verde">Postularme</a>
+            </div>
+          </div>
+      
+          <!-- Slide 3 -->
+          <div class="slide">
+            <img src="assets/imagenes/banner1.jpg" alt="Imagen 3">
+            <div class="overlay">
+              <h2>¡Oferta especial!</h2>
+              <p>Hasta 20 % de descuento esta semana.</p>
+              <a href="#ofertas" class="btn btn--rosa">Aprovechar</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      
       
    <section class="product-carousel">
     <div class="carousel-header">
@@ -106,6 +129,7 @@
       <div class="footer-section">
         <h3>Categorías</h3>
         <ul>
+          <a href="index.html"><li>Inicio</li></a>
           <a href="Art.html"><li>Arte</li></a>
           <a href="Home.html"><li>Hogar</li></a>
           <a href="Perfumes.html"><li>Perfumes</li></a>

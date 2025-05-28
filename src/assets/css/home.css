@@ -1,22 +1,54 @@
+/*  --- contenedor principal --- */
 .carousel {
-    position: relative;
-    width: 100%;
-    height: 520px; /* <-- altura actualizada */
-    overflow: hidden;
-  }
-  
-  .carousel-track {
-    display: flex;
-    width: 100%;
-    transition: transform 0.5s ease-in-out;
-  }
-  
-  .carousel-track img {
-    width: 100%;
-    height: 520px; /* <-- altura actualizada */
-    object-fit: cover;
-    flex-shrink: 0;
-  }
+  overflow: hidden;
+  height: 540px;   
+  width: 100%;       /* altura fija para el carrusel */
+  position: relative; /* para posicionar los botones de navegación */
+}
+
+.carousel-track {
+  display: flex;           /* 3 slides en línea; el JS ya mueve este track */
+  transition: transform 0.5s ease;
+}
+
+/*  --- cada slide --- */
+.slide {
+  position: relative;
+  min-width: 100%;         /* un slide ocupa todo el ancho visible */
+}
+
+.slide img {
+  width: 100%;
+  display: block;
+}
+
+/*  --- overlay (texto + botón) --- */
+.overlay {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.45);   /* sombreado semitransparente */
+  padding: 2rem 3rem;
+  border-radius: 1rem;
+}
+
+/*  --- botones --- */
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  background: #881C21;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  transition: opacity 0.2s;
+}
+
+.btn:hover { opacity: 0.8; }
   
   /* Botones de navegación */
   .carousel-btn {

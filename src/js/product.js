@@ -361,7 +361,7 @@ const productos = [
     nombre: "Ambientador en splash Brisa marina",
     precio: 10000,
     descripcion: "Aromatiza tu hogar con una fresca brisa marina.",
-    imagen: "assets/imagenes/ambientadorbrisa.jpg"
+    imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
   },
   {
     id: 41,
@@ -379,7 +379,7 @@ const productos = [
     nombre: "Ambientador en splash Maracuya",
     precio: 10000,
     descripcion: "Dulce y tropical aroma a maracuyá.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
   },
   {
     id: 43,
@@ -388,7 +388,7 @@ const productos = [
     nombre: "Ambientador en splash Flores del campo",
     precio: 10000,
     descripcion: "Aroma floral para ambientes acogedores.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/ambientadorbeclean.jpg"
   },
   {
     id: 44,
@@ -397,7 +397,7 @@ const productos = [
     nombre: "Ambientador en splash Nuevo Carro",
     precio: 10000,
     descripcion: "Fragancia clásica de carro nuevo.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
   },
   {
     id: 45,
@@ -406,7 +406,7 @@ const productos = [
     nombre: "Ambientador en splash Talco #4",
     precio: 10000,
     descripcion: "Aroma suave y reconfortante a talco.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/ambientadorbeclean.jpg"
   },
   {
     id: 46,
@@ -415,7 +415,7 @@ const productos = [
     nombre: "Ambientador en splash Sandia",
     precio: 10000,
     descripcion: "Refrescante aroma a sandía madura.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
   },
   {
     id: 47,
@@ -424,7 +424,7 @@ const productos = [
     nombre: "Ambientador en splash Citronela",
     precio: 10000,
     descripcion: "Citronela natural, ideal para repeler insectos.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/ambientadorbeclean.jpg"
   },
   {
     id: 48,
@@ -433,7 +433,7 @@ const productos = [
     nombre: "Crema corporal Pera",
     precio: 6000,
     descripcion: "Hidratante corporal con fragancia a pera.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/cremaCoconut.jpg"
   },
   {
     id: 49,
@@ -442,7 +442,7 @@ const productos = [
     nombre: "Crema corporal Coconut",
     precio: 6000,
     descripcion: "Nutrición tropical con aroma a coco.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/cremaCoconut.jpg"
   },
   {
     id: 50,
@@ -451,7 +451,7 @@ const productos = [
     nombre: "Crema corporal Bon Bon Bun",
     precio: 6000,
     descripcion: "Deliciosa fragancia inspirada en el dulce Bon Bon Bum.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/cremaBonbonbum.jpg"
   },
   {
     id: 51,
@@ -460,7 +460,7 @@ const productos = [
     nombre: "Crema corporal Pera",
     precio: 6000,
     descripcion: "Crema hidratante con doble carga de aroma a pera.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/cremaBonbonbum.jpg"
   },
   {
     id: 52,
@@ -469,7 +469,7 @@ const productos = [
     nombre: "Colonia en splash Coconut",
     precio: 20000,
     descripcion: "Refrescante colonia con fragancia de coco.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/coloniaCoconut.jpg"
   },
   {
     id: 53,
@@ -478,7 +478,7 @@ const productos = [
     nombre: "Colonia en splash Bon Bon Bum",
     precio: 20000,
     descripcion: "Colonia divertida con aroma a Bon Bon Bum.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/coloniaCoconut.jpg"
   },
   {
     id: 54,
@@ -487,7 +487,7 @@ const productos = [
     nombre: "Silicona multiusos emulsionada",
     precio: 14000,
     descripcion: "Ideal para proteger y dar brillo a superficies.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/siliconaMulti.jpg"
   },
   {
     id: 55,
@@ -496,7 +496,7 @@ const productos = [
     nombre: "Limpiador multiusos Limon",
     precio: 10000,
     descripcion: "Aroma cítrico con poder limpiador.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 56,
@@ -505,7 +505,7 @@ const productos = [
     nombre: "Limpiador multiusos Canela",
     precio: 10000,
     descripcion: "Aroma cálido a canela para tu hogar.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 57,
@@ -514,7 +514,7 @@ const productos = [
     nombre: "Limpiador multiusos Pino",
     precio: 10000,
     descripcion: "Fragancia clásica a pino fresco.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 58,
@@ -523,7 +523,7 @@ const productos = [
     nombre: "Limpiador multiusos Cereza",
     precio: 10000,
     descripcion: "Limpieza efectiva con fragancia a cereza.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 59,
@@ -532,7 +532,7 @@ const productos = [
     nombre: "Limpiador multiusos Flores del campo",
     precio: 10000,
     descripcion: "Fragancia floral para todos los espacios.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 60,
@@ -541,7 +541,7 @@ const productos = [
     nombre: "Limpiador multiusos Limon",
     precio: 10000,
     descripcion: "Versión alternativa del limpiador con aroma a limón.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 61,
@@ -550,7 +550,7 @@ const productos = [
     nombre: "Jabon liquido anti bacterial Manzana verde",
     precio: 4500,
     descripcion: "Jabón líquido con aroma fresco de manzana verde.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 62,
@@ -559,7 +559,7 @@ const productos = [
     nombre: "Jabon liquido anti bacterial Coco",
     precio: 4500,
     descripcion: "Jabón líquido antibacteriano con aroma tropical.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 63,
@@ -568,7 +568,7 @@ const productos = [
     nombre: "Jabon liquido anti bacterial Sandia",
     precio: 4500,
     descripcion: "Refrescante jabón líquido con aroma a sandía.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   },
   {
     id: 64,
@@ -577,7 +577,7 @@ const productos = [
     nombre: "Jabon liquido anti bacterial Coco y Avena",
     precio: 4500,
     descripcion: "Jabón líquido suave con coco y avena.",
-    imagen: "assets/imagenes/budaazul.jpg"
+    imagen: "assets/imagenes/limpiadorLimon.jpg"
   }
   ];
   
