@@ -79,3 +79,39 @@ body {
 .contact-form button:hover {
   background-color: #f5d477;
 }
+
+.contact-whatsapp {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.contact-whatsapp h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: #881C21;
+}
+
+.whatsapp-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #25D366;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 40px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.whatsapp-button:hover {
+  background-color: #1ebd5a;
+}
+
+.whatsapp-button img {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+

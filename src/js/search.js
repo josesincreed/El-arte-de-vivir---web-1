@@ -25,6 +25,12 @@ searchInput.addEventListener("input", function () {
           <span>$${prod.precio.toLocaleString()}</span>
         </div>
       `;
+
+      // Redirigir al hacer clic
+      item.addEventListener("click", () => {
+        window.location.href = `product.html?id=${prod.id}`;
+      });
+
       searchResults.appendChild(item);
     });
     searchResults.style.display = "block";
