@@ -1,4 +1,4 @@
-const productos = [
+import { productos } from './product.js'; [
     {
       id: 1,
       categoria: "Arte",

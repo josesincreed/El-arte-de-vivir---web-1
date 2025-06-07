@@ -1,0 +1,29 @@
+[
+  {
+    "imagen": "assets/imagenes/banner2.jpg",
+    "alt": "Imagen 1",
+    "titulo": "¡Nuestra Historia!",
+    "descripcion": "Conoce acerca de nosotras y cómo nace este proyecto.",
+    "botonTexto": "Ir al blog",
+    "botonEnlace": "blog.html",
+    "botonClase": "btn"
+  },
+  {
+    "imagen": "assets/imagenes/banner3.jpg",
+    "alt": "Imagen 2",
+    "titulo": "¡No esperes más!",
+    "descripcion": "Se parte de nuestro equipo de mujeres.",
+    "botonTexto": "Postularme",
+    "botonEnlace": "Contact.html",
+    "botonClase": "btn btn--verde"
+  },
+  {
+    "imagen": "assets/imagenes/banner1.jpg",
+    "alt": "Imagen 3",
+    "titulo": "¡Oferta especial!",
+    "descripcion": "Hasta 20 % de descuento esta semana.",
+    "botonTexto": "Aprovechar",
+    "botonEnlace": "#ofertas",
+    "botonClase": "btn btn--rosa"
+  }
+]

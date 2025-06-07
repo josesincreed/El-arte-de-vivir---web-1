@@ -3,15 +3,20 @@ import { getData as getPulseras } from './sections/pulseras/fetch.js';
 import { getData as getCollares } from './sections/collares/fetch.js';
 import { getData as getAretes } from './sections/aretes/fetch.js';
 
-
 document.addEventListener("DOMContentLoaded", async () => {
   const arte = await getArte();
+  const pulseras = await getPulseras();
+  const collares = await getCollares(); 
+  const aretes = await getAretes();
+
 
   renderProductos(arte, "Esculturas", "esculturas");
-  renderProductos(arte, "Pulseras", "pulseras");
-  renderProductos(arte, "Collares", "collares");
-  renderProductos(arte, "Aretes", "aretes");
+  renderProductos(pulseras, "Pulseras", "pulseras");
+  renderProductos(collares, "Collares", "collares");
+  renderProductos(aretes, "Aretes", "aretes");
 });
+
+
 
 
 function renderProductos(productos, seccion, contenedorId) {

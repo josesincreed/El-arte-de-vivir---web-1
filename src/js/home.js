@@ -1,6 +1,5 @@
 import { getData as getAmbientadores } from './sections/ambientadores/fetch.js';
 import { getData as getCremas } from './sections/cremas/fetch.js';
-// Si tienes otro fetch para multiusos:
 import { getData as getMultiusos } from './sections/multiUsos/fetch.js';
 
 
