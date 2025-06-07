@@ -35,7 +35,7 @@
   
   .product-info h1 {
     font-size: 2rem;
-    color: #6d4b8c;
+    color: #881C21;
     margin-bottom: 0.5rem;
   }
   
@@ -56,7 +56,7 @@
     font-size: 1.5rem;
     padding: 5px 12px;
     border: none;
-    background-color: #6d4b8c;
+    background-color: #881C21;
     color: white;
     border-radius: 8px;
     cursor: pointer;
@@ -64,7 +64,7 @@
   }
   
   .quantity-control button:hover {
-    background-color: #593972;
+    background-color: #f7eb42;
   }
   
   #quantity {
@@ -76,7 +76,7 @@
   #addToCartBtn {
     margin-top: 1.5rem;
     padding: 12px 20px;
-    background-color: #6d4b8c;
+    background-color: #881C21;
     color: white;
     border: none;
     border-radius: 12px;
@@ -86,7 +86,7 @@
   }
   
   #addToCartBtn:hover {
-    background-color: #593972;
+    background-color: #f7eb42;
   }
   
   /* Responsivo */
