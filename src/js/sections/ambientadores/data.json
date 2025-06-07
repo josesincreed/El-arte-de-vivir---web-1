@@ -1,59 +1,74 @@
 [
-    {
-      "name": "Ambientador en splash Brisa marina",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Ambientador en splash Be Clean",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Ambientador en splash Maracuya",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Ambientador en splash Flores del campo",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Ambientador en splash Nuevo Carro",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Ambientador en splash Talco #4",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Ambientador en splash Sandia",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Ambientador en splash Citronela",
-      "categoryId": 5,
-      "price": 10000,
-      "stock": 50,
-      "active": true
-    }
-  ]
-  
+  {
+    "id": 40,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Brisa marina",
+    "precio": 10000,
+    "descripcion": "Aromatiza tu hogar con una fresca brisa marina.",
+    "imagen": "assets/imagenes/ambientadorBrisaMarina.jpg"
+  },
+  {
+    "id": 41,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Be Clean",
+    "precio": 10000,
+    "descripcion": "Fragancia fresca y limpia para tu espacio.",
+    "imagen": "assets/imagenes/ambientadorbeclean.jpg"
+  },
+  {
+    "id": 42,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Maracuya",
+    "precio": 10000,
+    "descripcion": "Dulce y tropical aroma a maracuyá.",
+    "imagen": "assets/imagenes/ambientadorBrisaMarina.jpg"
+  },
+  {
+    "id": 43,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Flores del campo",
+    "precio": 10000,
+    "descripcion": "Aroma floral para ambientes acogedores.",
+    "imagen": "assets/imagenes/ambientadorbeclean.jpg"
+  },
+  {
+    "id": 44,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Nuevo Carro",
+    "precio": 10000,
+    "descripcion": "Fragancia clásica de carro nuevo.",
+    "imagen": "assets/imagenes/ambientadorBrisaMarina.jpg"
+  },
+  {
+    "id": 45,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Talco #4",
+    "precio": 10000,
+    "descripcion": "Aroma suave y reconfortante a talco.",
+    "imagen": "assets/imagenes/ambientadorbeclean.jpg"
+  },
+  {
+    "id": 46,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Sandia",
+    "precio": 10000,
+    "descripcion": "Refrescante aroma a sandía madura.",
+    "imagen": "assets/imagenes/ambientadorBrisaMarina.jpg"
+  },
+  {
+    "id": 47,
+    "categoria": "Hogar",
+    "seccion": "Ambientadores",
+    "nombre": "Ambientador en splash Citronela",
+    "precio": 10000,
+    "descripcion": "Citronela natural, ideal para repeler insectos.",
+    "imagen": "assets/imagenes/ambientadorbeclean.jpg"
+  }
+]

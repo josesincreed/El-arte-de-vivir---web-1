@@ -1,80 +1,101 @@
 [
-    {
-      "name": "Silicona multiusos emulsionada",
-      "categoryId": 7,
-      "price": 14000,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Limpiador multiusos Limon",
-      "categoryId": 7,
-      "price": 10000,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Limpiador multiusos Canela",
-      "categoryId": 7,
-      "price": 10000,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Limpiador multiusos Pino",
-      "categoryId": 7,
-      "price": 10000,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Limpiador multiusos Cereza",
-      "categoryId": 7,
-      "price": 10000,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Limpiador multiusos Flores del campo",
-      "categoryId": 7,
-      "price": 10000,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Limpiador multiusos Limon",
-      "categoryId": 7,
-      "price": 10000,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Jabon liquido anti bacterial Manzana verde",
-      "categoryId": 7,
-      "price": 4500,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Jabon liquido anti bacterial Coco",
-      "categoryId": 7,
-      "price": 4500,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Jabon liquido anti bacterial Sandia",
-      "categoryId": 7,
-      "price": 4500,
-      "stock": 40,
-      "active": true
-    },
-    {
-      "name": "Jabon liquido anti bacterial Coco y Avena",
-      "categoryId": 7,
-      "price": 4500,
-      "stock": 40,
-      "active": true
-    }
-  ]
-  
+  {
+    "id": 54,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Silicona multiusos emulsionada",
+    "precio": 14000,
+    "descripcion": "Ideal para proteger y dar brillo a superficies.",
+    "imagen": "assets/imagenes/siliconaMulti.jpg"
+  },
+  {
+    "id": 55,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Limpiador multiusos Limon",
+    "precio": 10000,
+    "descripcion": "Aroma cítrico con poder limpiador.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 56,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Limpiador multiusos Canela",
+    "precio": 10000,
+    "descripcion": "Aroma cálido a canela para tu hogar.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 57,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Limpiador multiusos Pino",
+    "precio": 10000,
+    "descripcion": "Fragancia clásica a pino fresco.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 58,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Limpiador multiusos Cereza",
+    "precio": 10000,
+    "descripcion": "Limpieza efectiva con fragancia a cereza.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 59,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Limpiador multiusos Flores del campo",
+    "precio": 10000,
+    "descripcion": "Fragancia floral para todos los espacios.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 60,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Limpiador multiusos Limon",
+    "precio": 10000,
+    "descripcion": "Versión alternativa del limpiador con aroma a limón.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 61,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Jabon liquido anti bacterial Manzana verde",
+    "precio": 4500,
+    "descripcion": "Jabón líquido con aroma fresco de manzana verde.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 62,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Jabon liquido anti bacterial Coco",
+    "precio": 4500,
+    "descripcion": "Jabón líquido antibacteriano con aroma tropical.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 63,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Jabon liquido anti bacterial Sandia",
+    "precio": 4500,
+    "descripcion": "Refrescante jabón líquido con aroma a sandía.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  },
+  {
+    "id": 64,
+    "categoria": "Hogar",
+    "seccion": "Multiusos",
+    "nombre": "Jabon liquido anti bacterial Coco y Avena",
+    "precio": 4500,
+    "descripcion": "Jabón líquido suave con coco y avena.",
+    "imagen": "assets/imagenes/limpiadorLimon.jpg"
+  }
+]

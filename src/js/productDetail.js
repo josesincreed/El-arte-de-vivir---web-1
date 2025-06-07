@@ -361,7 +361,7 @@ const productos = [
       nombre: "Ambientador en splash Brisa marina",
       precio: 10000,
       descripcion: "Aromatiza tu hogar con una fresca brisa marina.",
-      imagen: "assets/imagenes/ambientadorbrisa.jpg"
+      imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
     },
     {
       id: 41,
@@ -370,7 +370,7 @@ const productos = [
       nombre: "Ambientador en splash Be Clean",
       precio: 10000,
       descripcion: "Fragancia fresca y limpia para tu espacio.",
-      imagen: "assets/imagenes/ambientadorbeclean.jpg"
+      imagen: "assets/imagenes/ambientadorBeClean.jpg"
     },
     {
       id: 42,
@@ -379,7 +379,7 @@ const productos = [
       nombre: "Ambientador en splash Maracuya",
       precio: 10000,
       descripcion: "Dulce y tropical aroma a maracuyá.",
-      imagen: "assets/imagenes/budaazul.jpg"
+      imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
     },
     {
       id: 43,
@@ -388,7 +388,7 @@ const productos = [
       nombre: "Ambientador en splash Flores del campo",
       precio: 10000,
       descripcion: "Aroma floral para ambientes acogedores.",
-      imagen: "assets/imagenes/budaazul.jpg"
+      imagen: "assets/imagenes/ambientadorBeClean.jpg"
     },
     {
       id: 44,
@@ -397,7 +397,7 @@ const productos = [
       nombre: "Ambientador en splas Nuevo Carro",
       precio: 10000,
       descripcion: "Fragancia clásica de carro nuevo.",
-      imagen: "assets/imagenes/budaazul.jpg"
+      imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
     },
     {
       id: 45,
@@ -406,7 +406,7 @@ const productos = [
       nombre: "Ambientador en splash Talco #4",
       precio: 10000,
       descripcion: "Aroma suave y reconfortante a talco.",
-      imagen: "assets/imagenes/budaazul.jpg"
+      imagen: "assets/imagenes/ambientadorBeClean.jpg"
     },
     {
       id: 46,
@@ -415,7 +415,7 @@ const productos = [
       nombre: "Ambientador en splash Sandia",
       precio: 10000,
       descripcion: "Refrescante aroma a sandía madura.",
-      imagen: "assets/imagenes/budaazul.jpg"
+      imagen: "assets/imagenes/ambientadorBrisaMarina.jpg"
     },
     {
       id: 47,
@@ -424,7 +424,7 @@ const productos = [
       nombre: "Ambientador en splash Citronela",
       precio: 10000,
       descripcion: "Citronela natural, ideal para repeler insectos.",
-      imagen: "assets/imagenes/budaazul.jpg"
+      imagen: "assets/imagenes/ambientadorBeClean.jpg"
     },
     {
       id: 48,

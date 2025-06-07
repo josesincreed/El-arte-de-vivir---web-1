@@ -1,45 +1,56 @@
 [
-    {
-      "name": "Crema corporal Pera",
-      "categoryId": 6,
-      "price": 6000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Crema corporal Coconut",
-      "categoryId": 6,
-      "price": 6000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Crema corporal Bon Bon Bun",
-      "categoryId": 6,
-      "price": 6000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Crema corporal Pera",
-      "categoryId": 6,
-      "price": 6000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Colonia en splash Coconut",
-      "categoryId": 6,
-      "price": 20000,
-      "stock": 50,
-      "active": true
-    },
-    {
-      "name": "Colonia en splash Bon Bon Bum",
-      "categoryId": 6,
-      "price": 20000,
-      "stock": 50,
-      "active": true
-    }
-  ]
-  
+  {
+    "id": 48,
+    "categoria": "Hogar",
+    "seccion": "Cremas corporales",
+    "nombre": "Crema corporal Pera",
+    "precio": 6000,
+    "descripcion": "Hidratante corporal con fragancia a pera.",
+    "imagen": "assets/imagenes/cremaCoconut.jpg"
+  },
+  {
+    "id": 49,
+    "categoria": "Hogar",
+    "seccion": "Cremas corporales",
+    "nombre": "Crema corporal Coconut",
+    "precio": 6000,
+    "descripcion": "Nutrición tropical con aroma a coco.",
+    "imagen": "assets/imagenes/cremaCoconut.jpg"
+  },
+  {
+    "id": 50,
+    "categoria": "Hogar",
+    "seccion": "Cremas corporales",
+    "nombre": "Crema corporal Bon Bon Bun",
+    "precio": 6000,
+    "descripcion": "Deliciosa fragancia inspirada en el dulce Bon Bon Bum.",
+    "imagen": "assets/imagenes/cremaBonbonbum.jpg"
+  },
+  {
+    "id": 51,
+    "categoria": "Hogar",
+    "seccion": "Cremas corporales",
+    "nombre": "Crema corporal Pera",
+    "precio": 6000,
+    "descripcion": "Crema hidratante con doble carga de aroma a pera.",
+    "imagen": "assets/imagenes/cremaBonbonbum.jpg"
+  },
+  {
+    "id": 52,
+    "categoria": "Hogar",
+    "seccion": "Cremas corporales",
+    "nombre": "Colonia en splash Coconut",
+    "precio": 20000,
+    "descripcion": "Refrescante colonia con fragancia de coco.",
+    "imagen": "assets/imagenes/coloniaCoconut.jpg"
+  },
+  {
+    "id": 53,
+    "categoria": "Hogar",
+    "seccion": "Cremas corporales",
+    "nombre": "Colonia en splash Bon Bon Bum",
+    "precio": 20000,
+    "descripcion": "Colonia divertida con aroma a Bon Bon Bum.",
+    "imagen": "assets/imagenes/coloniaCoconut.jpg"
+  }
+]

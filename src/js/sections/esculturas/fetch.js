@@ -1,16 +1,17 @@
 
 export async function getData() {
-    const response = await fetch('js/sections/carrusel/data.json');
-    const data = await response.json();
-    return data;
+  const response = await fetch('js/sections/esculturas/data.json');
+  const data = await response.json();
+  return data;
 }
+
 
 
  
 // Function to render the sections
 async function rendersections() {
     const sections = await getData();
-    const container = document.getElementById('carousel-wrapper');
+    const container = document.getElementById('esculturas');
     
     if (!container) {
         console.error('Container element not found');
@@ -27,7 +28,7 @@ async function rendersections() {
     }
       //limpiar el contenido del contenedor antes de agregar nuevos elementos
     container.innerHTML = sections.map(item => `
-    <div class="carousel-wrapper">
+    <div class="esculturas">
         <div class="product-card">
             ${item.imagen ? `
                 <div class="info">
@@ -42,4 +43,3 @@ async function rendersections() {
 `).join('');
 
 }
- 
